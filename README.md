@@ -4,6 +4,8 @@ Blog Article: [Pagination in PEAR and Smarty](http://blog.chapagain.com.np/pagin
 
 #### Note on Smarty
 
+Smarty library files are not included here.
+
 You need to download Smarty library files from http://www.smarty.net/download
 
 Extract the file and rename the extracted folder as `smarty`
